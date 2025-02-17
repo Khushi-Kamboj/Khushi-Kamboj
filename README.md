@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/khushi-kamboj-5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khushi-kamboj-5" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/khushikamboj5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khushikamboj5" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/khushikamboj1231" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="khushikamboj1231" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/khushi_kamboj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="khushi_kamboj" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/khushikambsf67" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="khushikambsf67" height="30" width="40" /></a>
