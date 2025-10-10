@@ -80,10 +80,11 @@
 
 ### 💼 Why Recruiters Choose Me
 
-✅ Hands-on experience with **AI-integrated full stack apps**  
-✅ **Strong CS fundamentals** — DSA, OOP, DBMS, CN, OS  
-✅ Proven teamwork through **Agile projects & research publication**  
-✅ Passionate about **innovation, scalability, and real-world impact**
+- 🚀 Proven ability to build **end-to-end full stack applications** integrating AI and modern web tech  
+- 🧠 Strong foundation in **Data Structures, Algorithms, and Core CS Concepts**  
+- 🤝 Experienced in **collaborative Agile teams**, with solid communication and ownership  
+- 📚 Published research work on **AI-Powered Chatbots**, showing innovation & curiosity  
+- 💡 Passionate about **learning new technologies** and solving real-world problems efficiently  
 
 ---
 
