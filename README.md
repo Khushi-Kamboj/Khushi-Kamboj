@@ -1,8 +1,7 @@
-<h1 align="center">Hi there, I'm <span style="color:#ff4081;">Khushi Kamboj</span> 👋</h1>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/Q7SKqn3G97xpmfSOvG/giphy.gif" width="120">
-</p>
+<h1 align="center">
+  Hi there, I'm <span style="color:#ff4081;">Khushi Kamboj</span>
+  <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" width="50" />
+</h1>
 
 <h3 align="center">💻 Full Stack Developer | 🤖 AI & Chatbot Enthusiast | 🚀 Innovator</h3>
 
