@@ -71,15 +71,15 @@ Built using **Next.js, Python, MongoDB & OpenAI APIs**
 
 ---
 
-# 📈 **GitHub Stats**
+## 📈 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Khushi-Kamboj&show_icons=true&theme=tokyonight"/>
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Khushi-Kamboj&theme=tokyonight"/>
+  <img height="170" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=Khushi-Kamboj&show_icons=true&theme=tokyonight"/>
+  <img height="170" src="https://streak-stats.demolab.com/?user=Khushi-Kamboj&theme=tokyonight"/>
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khushi-Kamboj&layout=compact&theme=tokyonight"/>
+  <img height="170" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=Khushi-Kamboj&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
