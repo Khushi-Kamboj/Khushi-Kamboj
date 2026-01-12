@@ -46,15 +46,36 @@
 # 🚀 <b>Featured Projects</b>
 
 ### 🧠 <b>StudyGeniusAI — AI Study & Revision Companion</b>  
-🔗 https://github.com/Khushi-Kamboj/StudyGeniusAI  
+GitHub: https://github.com/Khushi-Kamboj/StudyGeniusAI
+Live Demo: https://studygeniusaikhushi.netlify.app
 
-AI-driven platform for smart revision & exam preparation  
-- Upload notes → OCR + AI summaries + Q&A  
-- Calendar-based revision planner with daily goals  
-- Smart email reminders for today’s progress & next topics  
-- Used by <b>150+ active users</b> during testing  
+AI-powered platform that helps students revise smarter and prepare efficiently.
 
-<b>Tech:</b> Next.js, React, Firebase, AI APIs  
+##### Key Features:
+
+- Upload notes with OCR extraction
+- AI-generated summaries and Q&A
+- Calendar-based revision planner with daily goals
+- Smart email reminders for daily progress and next topics
+- Used by 150+ active users during testing
+
+<b>Tech:</b> Next.js, Reactjs , Firebase, AI APIs  
+
+---
+
+### 🍔 <b>Zo-moto — AI Food Ordering System</b>  
+GitHub: https://github.com/Khushi-Kamboj/Zomoto  
+Live Demo: https://zomotokhushi.netlify.app
+
+Full-stack food delivery application inspired by Zomato.
+
+#### Key Features
+
+- AI chatbot OrderAssist for natural language food ordering
+- Real-time cart and order tracking
+- Admin panel for restaurant and order management
+
+<b>Tech:</b> Reactjs, Nodejs, ExpressJS, TailwindCSS, Chatbot API   
 
 ---
 
@@ -68,17 +89,6 @@ AI-driven platform for smart revision & exam preparation
 
 <b>Tech:</b> React, Node.js, MongoDB  
 
----
-
-### 🍔 <b>Zo-moto — AI Food Ordering System</b>  
-🔗 https://github.com/Khushi-Kamboj/Zomoto  
-
-- Full-stack food delivery app inspired by Zomato  
-- NLP chatbot <b>OrderAssist</b> for natural language ordering  
-- Real-time cart & order tracking  
-- Admin panel for restaurants & orders  
-
-<b>Tech:</b> React, TypeScript, Supabase  
 
 ---
 
