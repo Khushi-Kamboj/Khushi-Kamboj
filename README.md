@@ -45,8 +45,8 @@
 
 # 🚀 <b>Featured Projects</b>
 
-### 🧠 <b>StudyGeniusAI — AI Study & Revision Companion</b>  
-GitHub: https://github.com/Khushi-Kamboj/StudyGeniusAI
+### 🧠 **StudyGeniusAI — AI based revision prep tool**  
+GitHub: https://github.com/Khushi-Kamboj/StudyGeniusAI  
 Live Demo: https://studygeniusaikhushi.netlify.app
 
 AI-powered platform that helps students revise smarter and prepare efficiently.
