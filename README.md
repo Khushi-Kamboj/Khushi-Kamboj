@@ -64,7 +64,7 @@ AI-powered platform that helps students revise smarter and prepare efficiently.
 ---
 
 ### 🍔 <b>Zo-moto — AI Food Ordering System</b>  
-GitHub: [https://github.com/Khushi-Kamboj/Zomoto ](https://github.com/Khushi-Kamboj/Zo-moto) 
+GitHub: https://github.com/Khushi-Kamboj/Zomoto 
 Live Demo: https://zomotokhushi.netlify.app
 
 Full-stack food delivery application inspired by Zomato.
